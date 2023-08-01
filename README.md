@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋</h1>
 
 <p align="center">
-    <b>Welcome to my GitHub!</b><br><br>
+    <b>Welcome to my page!</b><br><br>
     <i>
         My name is Tomas and I'm Front-End engineer<br>
         Currently looking for new Front-End development opportunities<br>
