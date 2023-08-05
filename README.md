@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        My name is Tomas and I'm Front-End engineer<br>
+        My name is Tomas and I'm Front-End developer<br>
         Currently looking for new Front-End development opportunities<br>
     </i><br>
     <a href="https://www.linkedin.com/in/antanaitis-tomas/">
