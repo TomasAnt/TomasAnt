@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <br>
     <i>I'm Currently looking for new Front-End development opportunities<br>
     </i><br>
     <a href="https://www.linkedin.com/in/antanaitis-tomas/">
