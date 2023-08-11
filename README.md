@@ -2,7 +2,7 @@
 
 <p align="center">
     <br>
-    <i>I'm Currently looking for new Front-End development opportunities<br>
+    <i>I'm Currently looking for new Front-End development positions<br>
     </i><br>
     <a href="https://www.linkedin.com/in/antanaitis-tomas/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
