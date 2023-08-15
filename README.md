@@ -32,7 +32,3 @@
 [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/TomasAnt)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/TomasAnt)
 
-
-<div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TomasAnt&" alt="TomasAnt" /></p>
-</div>
